@@ -1,0 +1,18 @@
++----------------+
+|     Users      |
++----------------+
+| email: String  |
+| senha: String  |
+| nome: String   |
+| endereco: String |
++----------------+
+
++----------------+
+|     Events     |
++----------------+
+| nome: String   |
+| endereco: String |
+| categoria: String |
+| horario: LocalDateTime |
+| descricao: String |
++----------------+
